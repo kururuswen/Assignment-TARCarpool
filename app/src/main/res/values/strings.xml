@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TARUCarpool</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Location_arrays">
+        <item>Select a place</item>
+        <item>TARUC</item>
+        <item>PV128</item>
+        <item>Prima Setapak</item>
+        <item>Teratai Resident Area</item>
+    </string-array>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drivername">DriverName</string>
+    <string name="driver">Driver :</string>
+    <string name="charges">Charges :</string>
+    <string name="slot">Slot :</string>
+</resources>

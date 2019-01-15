@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\c0e9b1896e2e0912012c11b05cf0dd29\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\03a7e0ca84e7595e846646912100f7b8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aa0dcd44ff4176be1782e7cc2d421f96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\5dbb067db4e43fda8e2572c9cb59bacd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d9159b6d4af815b1b253e1725aaf9c0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ad1190908fa7edba8407fd869a20971d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2c078df263ff8b284b6a4d849f76467f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d76e4904fa6bcbd8c8a98ed0cf274069\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\34cdcc2fb3b5067c4e7cd762da54acb7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cf1d8b0549a8fce2743508a9e00aaa98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bd36ab5df36bf7157aa208b94c9f9a8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\ac4a024136392771b701f157244ea4de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ee5214617b8e81c744fcc0417fd05d4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\244f2ffada6e6ecd9a8b5ec154037c77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\36cfeb0b3725543c900bc8a09d66d044\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8f4cb7249a629362c4e461bdd7b16b08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0c46937743520ce514e6b867c49fbf77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cdb520676ac0a573b07f02193005153f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e9e933f85e06bcbc7351fbe308e82169\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c0ee0503d46f9d648bd289c5d3177136\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33041871b869c79368dc6e8641416c33\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e26bb436f0b2e46f3c03cfb826b500b2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\16e9296d742aeeccaf2e064d068c4c41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c9ce8ac22fc8a09d10826832f8cef9c4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\785a697439f6c0198c76572a58b1372a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\393d95861f473eb30b535ec75a4ea40c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3c55b0159a6b69307ae4c6e63d93bed0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\182a0c1ab08e93ef745b688db33f1fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\aaeced8d5aec09c9791fc5d6c861c159\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1126aded94e60a2b21ae5620d6c12ee3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5ce392d0d9c6b8c9d2104d0d06c7ea75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\51939b78bb451d2588a1963465c79c6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0b6ec31e890f412898939a5fad14a4a0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:8:5-49:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\c0e9b1896e2e0912012c11b05cf0dd29\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\c0e9b1896e2e0912012c11b05cf0dd29\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\03a7e0ca84e7595e846646912100f7b8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\03a7e0ca84e7595e846646912100f7b8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33041871b869c79368dc6e8641416c33\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33041871b869c79368dc6e8641416c33\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e26bb436f0b2e46f3c03cfb826b500b2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e26bb436f0b2e46f3c03cfb826b500b2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33041871b869c79368dc6e8641416c33\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:10:9-38
+	android:allowBackup
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#my.edu.taruc.assignment.MainActivity
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:theme
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:21:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:25:9-27:57
+	android:resource
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:27:13-54
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:26:13-43
+activity#my.edu.taruc.assignment.MainMenu
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:29:9-31:58
+	android:parentActivityName
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:31:13-55
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:30:13-37
+activity#my.edu.taruc.assignment.DriverCreate
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:32:9-34:54
+	android:parentActivityName
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:34:13-51
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:33:13-41
+activity#my.edu.taruc.assignment.PassengerSearchPath
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:35:9-37:54
+	android:parentActivityName
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:37:13-51
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:36:13-48
+activity#my.edu.taruc.assignment.CarPoolRoom
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:38:9-40:54
+	android:parentActivityName
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:40:13-51
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:39:13-40
+activity#my.edu.taruc.assignment.PassengerFoundPath
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:41:9-43:65
+	android:parentActivityName
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:43:13-62
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:42:13-47
+activity#my.edu.taruc.assignment.AboutPage
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:44:9-46:54
+	android:parentActivityName
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:46:13-51
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:45:13-38
+activity#my.edu.taruc.assignment.registerCar
+ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:47:9-48:67
+	android:parentActivityName
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml:47:19-46
+uses-sdk
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\c0e9b1896e2e0912012c11b05cf0dd29\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\c0e9b1896e2e0912012c11b05cf0dd29\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\03a7e0ca84e7595e846646912100f7b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\03a7e0ca84e7595e846646912100f7b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aa0dcd44ff4176be1782e7cc2d421f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\aa0dcd44ff4176be1782e7cc2d421f96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\5dbb067db4e43fda8e2572c9cb59bacd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\5dbb067db4e43fda8e2572c9cb59bacd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d9159b6d4af815b1b253e1725aaf9c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\d9159b6d4af815b1b253e1725aaf9c0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ad1190908fa7edba8407fd869a20971d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\ad1190908fa7edba8407fd869a20971d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2c078df263ff8b284b6a4d849f76467f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\2c078df263ff8b284b6a4d849f76467f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d76e4904fa6bcbd8c8a98ed0cf274069\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\d76e4904fa6bcbd8c8a98ed0cf274069\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\34cdcc2fb3b5067c4e7cd762da54acb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\34cdcc2fb3b5067c4e7cd762da54acb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cf1d8b0549a8fce2743508a9e00aaa98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\cf1d8b0549a8fce2743508a9e00aaa98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bd36ab5df36bf7157aa208b94c9f9a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bd36ab5df36bf7157aa208b94c9f9a8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\ac4a024136392771b701f157244ea4de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\ac4a024136392771b701f157244ea4de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ee5214617b8e81c744fcc0417fd05d4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\ee5214617b8e81c744fcc0417fd05d4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\244f2ffada6e6ecd9a8b5ec154037c77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\244f2ffada6e6ecd9a8b5ec154037c77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\36cfeb0b3725543c900bc8a09d66d044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\36cfeb0b3725543c900bc8a09d66d044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8f4cb7249a629362c4e461bdd7b16b08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8f4cb7249a629362c4e461bdd7b16b08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0c46937743520ce514e6b867c49fbf77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\0c46937743520ce514e6b867c49fbf77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cdb520676ac0a573b07f02193005153f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\cdb520676ac0a573b07f02193005153f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e9e933f85e06bcbc7351fbe308e82169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e9e933f85e06bcbc7351fbe308e82169\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c0ee0503d46f9d648bd289c5d3177136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\c0ee0503d46f9d648bd289c5d3177136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33041871b869c79368dc6e8641416c33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\33041871b869c79368dc6e8641416c33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e26bb436f0b2e46f3c03cfb826b500b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e26bb436f0b2e46f3c03cfb826b500b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\16e9296d742aeeccaf2e064d068c4c41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\16e9296d742aeeccaf2e064d068c4c41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c9ce8ac22fc8a09d10826832f8cef9c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\c9ce8ac22fc8a09d10826832f8cef9c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\785a697439f6c0198c76572a58b1372a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\785a697439f6c0198c76572a58b1372a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\393d95861f473eb30b535ec75a4ea40c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\393d95861f473eb30b535ec75a4ea40c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3c55b0159a6b69307ae4c6e63d93bed0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3c55b0159a6b69307ae4c6e63d93bed0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\182a0c1ab08e93ef745b688db33f1fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\182a0c1ab08e93ef745b688db33f1fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\aaeced8d5aec09c9791fc5d6c861c159\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\aaeced8d5aec09c9791fc5d6c861c159\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1126aded94e60a2b21ae5620d6c12ee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1126aded94e60a2b21ae5620d6c12ee3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5ce392d0d9c6b8c9d2104d0d06c7ea75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\5ce392d0d9c6b8c9d2104d0d06c7ea75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\51939b78bb451d2588a1963465c79c6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\51939b78bb451d2588a1963465c79c6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0b6ec31e890f412898939a5fad14a4a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\0b6ec31e890f412898939a5fad14a4a0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\Downloads\Assignment-TARCarpool-master\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:24:13-83
